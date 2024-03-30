@@ -1,3 +1,5 @@
+![2024-03-30_00-24](https://github.com/lunelovehearn/Icon-Collection/assets/84490883/fafc5e5d-a077-481e-831e-b75c8e1b830a)
+
 # Icon-Collection
 ## A collection of icons for Microsoft Windows and Linux systems.
 
@@ -17,3 +19,4 @@ I would like someone to make a proper icon theme based off the Aero icons or any
 I will update the repo when I get free time. 
 
 you can also contribute with your own icons, be it as .ico or PNG files. 
+
